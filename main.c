@@ -3,11 +3,8 @@
 #include<stdlib.h>
 /*
 
-  OGUZHAN BIRK 21893952
-  BIL332-02
+  OGUZHAN BIRK 
   HW-2 BUDDY SYSTEM
-
-  I hereby affirmed my solution
 
 */
 struct Node {
